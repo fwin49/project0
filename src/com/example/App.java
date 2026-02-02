@@ -5,7 +5,7 @@
  */
 public class App {
     public static void main(String[] args) {
-        int n = 10; // default
+        int n = 11; // default
         if (args.length > 0) {
             try {
                 n = Integer.parseInt(args[0]);
